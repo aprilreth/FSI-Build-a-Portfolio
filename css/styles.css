@@ -15,9 +15,9 @@ p {
 }
 
 img {
-  border-radius: 1px;
+  border-radius: 2px;
   border-color: gray;
-  text-align: center;
+  align-content: center;
 }
 
 h2 {
