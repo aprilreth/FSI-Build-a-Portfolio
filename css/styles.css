@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: purple;
+  text-align: left;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
