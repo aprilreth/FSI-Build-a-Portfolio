@@ -13,3 +13,9 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
 }
+
+img {
+  border-radius: 1px;
+  border-color: gray;
+  text-align: center;
+}
